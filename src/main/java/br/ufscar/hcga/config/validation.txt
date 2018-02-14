@@ -1,0 +1,30 @@
+saveInDirectory = C:\Users\gean_\Dropbox\posGrad\Experimentos\HC-LGA\TEs\MIPS\allConfigs\config25\obj2\
+
+numClasses = 14
+#numClasses = 31
+
+#sem uso
+numberOfTrainIntances = -1
+
+
+
+realTestClassesFile = C:\Users\gean_\Dropbox\posGrad\Datasets\TEs\FOLDS\MIPS\realTestClasses\fold1\
+#realTestClassesFile = C:\Users\gean_\Dropbox\posGrad\Datasets\TEs\FOLDS\REPBASE\realTestClasses\fold1\
+
+
+
+predictedClassesFile = C:\Users\gean_\Dropbox\posGrad\Experimentos\HC-LGA\TEs\MIPS\allConfigs\config25\obj2\
+
+#sem uso
+rulesFile = ...
+
+threshold = 0.5
+
+#if equals to '0' then the validation process is applied to a specific fold, if 
+#equals to 1, is for all
+allFolds = 0
+
+specificFold = 1
+
+#validation acording to hierarchical measures or not
+hierarchical = true

@@ -1,0 +1,5 @@
+pathDatasetsaveInDirectory = C:\\Users\\gean_\\Dropbox\\posGrad\\datasets\\Gene Functions\\novos Bruna\\
+
+nameDataset = GPCR-Prints
+
+folds = 10
